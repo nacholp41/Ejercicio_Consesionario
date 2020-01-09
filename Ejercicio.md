@@ -1,5 +1,5 @@
 # Ejercicio_Consesionario
-Ejercicio para postularse al puesto de primer trabajo en JAVA
+Ejercicio para postularse al puesto de primer trabajo en Desarrollo Java
 
 Ejercicio Onready
 Imaginemos una concesionaria de autos y motos.
